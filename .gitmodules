@@ -1,0 +1,3 @@
+[submodule "src/main/kotlin/com/example/shared"]
+	path = src/main/kotlin/com/example/shared
+	url = https://github.com/vincentkurnia/submodule-shared.git
